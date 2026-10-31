@@ -6,6 +6,9 @@ from the menu/input handling in ui.py and the entry point in main.py.
 
 import math
 
+def cubed(x):
+    return x * x * x
+    
 
 def add(x, y):
     return x + y
